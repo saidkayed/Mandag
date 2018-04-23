@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 hejsa hejsa hejsa hejsa hejsa
+=======
+hejsa
+
+
+
+
+
+
+pølse pølse pølse pølse
+>>>>>>> f5cfc84c234dfb2a7c3e3273b6f6757943888d88
